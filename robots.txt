@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Host: kazino-s-momentalnym-vyvodom-na-kivi.github.io
+Sitemap: https://kazino-s-momentalnym-vyvodom-na-kivi.github.io/sitemap.xml
